@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AllWeather</string>
+    <string name="weather_notifications">Уведомления о погоде</string>
+    <string name="weather_updates">Обновления погоды</string>
+    <string name="permission_required">Требуется разрешение на доступ к местоположению</string>
+    <string name="grant_permission">Предоставить разрешение</string>
+    <string name="loading">Загрузка...</string>
+    <string name="error">Ошибка</string>
+    <string name="retry">Попробовать снова</string>
+</resources>
